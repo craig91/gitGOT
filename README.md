@@ -1,0 +1,2 @@
+# gitGOT
+Niko's idea
